@@ -1,0 +1,16 @@
+{
+  "build": {
+    "env": {
+      "ALGOLIA_APP_ID": "@algolia-appid",
+      "ALGOLIA_SEARCH_KEY": "@algolia-searchkey",
+      "FIREBASE_APIKEY": "@firebase-apikey",
+      "FIREBASE_AUTHDOMAIN": "@firebase-authdomain",
+      "FIREBASE_DATABASEURL": "@firebase-databaseurl",
+      "FIREBASE_PROJECTID": "@firebase-projectid",
+      "FIREBASE_STORAGEBUCKET": "@firebase-storagebucket",
+      "FIREBASE_MESSAGINGSENDERID": "@firebase-messagingsenderid",
+      "FIREBASE_APPID": "@firebase-appid",
+      "FIREBASE_MEASUREMENTID": "@firebase-measurementid"
+    }
+  }
+}
